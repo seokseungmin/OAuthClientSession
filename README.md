@@ -18,7 +18,7 @@ OAuth2.0 클라이언트와 스프링 시큐리티 6 프레임워크를 활용�
 인증 받은 데이터는 MySQL 데이터베이스를 활용하여 저장하고 관리한다.
 
 
-<h2 align="center"> 의존성 </h2>
+<h2 align="center"> Tools / Languages </h2>
 
 ![Front-end](https://skillicons.dev/icons?i=idea,spring,gradle,java,mysql)<br>
 <img src="https://img.shields.io/badge/Spring Web-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
